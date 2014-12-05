@@ -1,4 +1,4 @@
 Visualisation
 =============
 
-Visualisation in python
+Visualisation with Processing tools.
